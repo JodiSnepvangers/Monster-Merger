@@ -1,0 +1,12 @@
+{
+  "dataType": 0,
+  "catagory": "",
+  "infoContainer": {
+    "MainStatBody": 0,
+    "MainStatConviction": 0,
+    "MainStatCunning": 0,
+    "MainStatPassion": 0,
+    "MainStatReason": 0,
+    "MainStatProwess": 0
+  }
+}
